@@ -45,7 +45,7 @@ const Navbar = () => {
       <div className="navbar__container container">
         <a href="#inicio" className="navbar__logo" onClick={() => handleClick('inicio')}>
           <img
-            src="/images/logos/Logo versiones Animal defense Q-02.png"
+            src="/Logo versiones Animal defense Q-02.png"
             alt="Animal Defense S.A.S"
             className="navbar__logo-img"
           />
