@@ -1,8 +1,8 @@
-@import './styles/variables.css';
+@import './variables.css';
 
 @font-face {
   font-family: 'HelveticaBd';
-  src: url('/fonts/HelveticaBd.ttf') format('truetype');
+  src: url('/HelveticaBd.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: 'HelveticaLt';
-  src: url('/fonts/HelveticaLt.ttf') format('truetype');
+  src: url('/HelveticaLt.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
