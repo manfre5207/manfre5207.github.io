@@ -1,0 +1,66 @@
+:root {
+  /* Colores principales - Animal Defense Brand Identity */
+  --color-primary: #0d4961;
+  --color-primary-light: #1a6080;
+  --color-primary-dark: #083347;
+  --color-secondary: #d8b394;
+  --color-secondary-light: #e4c6ac;
+  --color-secondary-dark: #c49b78;
+  --color-accent: #0d4961;
+
+  /* Neutros */
+  --color-white: #ffffff;
+  --color-gray-50: #f8f9fa;
+  --color-gray-100: #f0f2f4;
+  --color-gray-200: #e2e6ea;
+  --color-gray-300: #ced4da;
+  --color-gray-400: #adb5bd;
+  --color-gray-500: #706f6f;
+  --color-gray-600: #585858;
+  --color-gray-700: #2e2b2b;
+  --color-gray-800: #1a1818;
+  --color-black: #000000;
+
+  /* Tipografía */
+  --font-heading: 'Helvetica Neue', 'HelveticaBd', Arial, sans-serif;
+  --font-body: 'Helvetica Neue', 'HelveticaLt', Arial, sans-serif;
+
+  /* Tamaños */
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-base: 1rem;
+  --fs-lg: 1.125rem;
+  --fs-xl: 1.25rem;
+  --fs-2xl: 1.5rem;
+  --fs-3xl: 1.875rem;
+  --fs-4xl: 2.25rem;
+  --fs-5xl: 3rem;
+
+  /* Espaciado */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+  --spacing-2xl: 3rem;
+  --spacing-3xl: 4rem;
+  --spacing-4xl: 6rem;
+
+  /* Sombras */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.12);
+  --shadow-xl: 0 20px 50px rgba(0, 0, 0, 0.15);
+
+  /* Bordes */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-full: 9999px;
+
+  /* Transiciones */
+  --transition-fast: 0.15s ease;
+  --transition-base: 0.3s ease;
+  --transition-slow: 0.5s ease;
+}
